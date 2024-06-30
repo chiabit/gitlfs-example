@@ -10,6 +10,12 @@ You can clone the repository with the following command:
 git clone git@github.com:chiabit/gitlfs-example.git
 ```
 
+We add the following JPG image:
+
+```bash
+git lfs track "*.jpg"
+```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
